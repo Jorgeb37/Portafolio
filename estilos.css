@@ -1,0 +1,17 @@
+/* Estilo para el encabezado */
+header {
+    background-color: #007BFF;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilo para el párrafo en el contenido principal */
+main {
+    padding: 20px;
+}
+
+p {
+    font-size: 18px;
+    color: #333333;
+}
