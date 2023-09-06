@@ -46,6 +46,10 @@ footer {
     background-color: #7D9AFF;
     color: #fff;
 }
+footer img {
+    height: 20px;
+    width: 20px;
+}
 
 /* Estilos para enlaces */
 a {
